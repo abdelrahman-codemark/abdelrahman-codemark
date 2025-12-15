@@ -19,28 +19,29 @@
 ---
 
 ## 🚀 About Me
-I’m **Abdelrahman**, a passionate **Backend Developer** specializing in **.NET & C#**.  
-I focus on building **clean, scalable, and maintainable applications**, while sharing my knowledge with others through content creation.  
+I’m **Abdelrahman**, a passionate **Backend Developer** specializing in **.NET & C#**.
+
+I focus on building **clean, scalable, and maintainable applications**, while sharing my knowledge with others through content creation.
 
 Currently, I am:
-- Developing **backend solutions** with .NET & C#  
-- Exploring advanced programming concepts and best practices  
-- Preparing to become a **coding mentor**  
-- Sharing tutorials and practical guides via **CodeMark**  
+- Developing **backend solutions** with .NET & C#
+- Exploring advanced programming concepts and best practices
+- Preparing to become a **coding mentor**
+- Sharing tutorials and practical guides via **CodeMark**
 
-**Skills & Tools:**  
-- **Languages & Frameworks:** C#, OOP, SQL, ASP.NET Core, HTML, CSS, JS  
-- **Tools & Platforms:** Git, GitHub, VS Code, Visual Studio  
-- **Soft Skills:** Problem-solving, clean code practices, mentoring  
+**Skills & Tools:**
+- **Languages & Frameworks:** C#, OOP, SQL, ASP.NET Core, HTML, CSS, JS
+- **Tools & Platforms:** Git, GitHub, VS Code, Visual Studio
+- **Soft Skills:** Problem-solving, clean code practices, mentoring
 
 ---
 
 ## 🔥 Highlights
-- 💻 Developed multiple **backend projects** using .NET & C#  
-- 🌱 Continuously learning and exploring **new technologies**  
-- 🎯 Preparing to **mentor upcoming developers**  
-- 📚 Creating **educational content** via CodeMark  
-- 🧩 Focused on **clean architecture** and reusable components  
+- 💻 Developed multiple **backend projects** using .NET & C#
+- 🌱 Continuously learning and exploring **new technologies**
+- 🎯 Preparing to **mentor upcoming developers**
+- 📚 Creating **educational content** via CodeMark
+- 🧩 Focused on **clean architecture** and reusable components
 
 ---
 
@@ -53,15 +54,13 @@ Currently, I am:
 
 ## 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AbdelrahmanAboFoda&show_icons=true&theme=dark&hide_border=true&border_radius=10&title_color=00BFFF&icon_color=00BFFF&text_color=FFFFFF" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AbdelrahmanAboFoda&theme=dark&hide_border=true&border_radius=10&stroke=00BFFF&fire=00BFFF" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=abdelrahman-codemark&show_icons=true&theme=dark&hide_border=true&border_radius=10&title_color=00BFFF&icon_color=00BFFF&text_color=FFFFFF" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=abdelrahman-codemark&theme=dark&hide_border=true&border_radius=10&stroke=00BFFF&fire=00BFFF" width="48%" />
 </p>
 
 ---
 
 ## 🎬 YouTube Focus
-- ✅ Backend tutorials (.NET & C#)  
-- ✅ Real-world application examples  
-- ✅ Problem-solving guides in C# & SQL  
-- ✅ Tips for Git, VS Code, and productivity  
-- ✅ Educational projects for beginners  
+- ✅ Backend tutorials (.NET & C#)
+- ✅ Real-world application examples
+
